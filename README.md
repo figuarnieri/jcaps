@@ -1,0 +1,2 @@
+# jcaps
+Detected Caps Lock
