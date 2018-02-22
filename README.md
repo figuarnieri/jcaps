@@ -1,2 +1,2 @@
-# jcaps
-Detected Caps Lock
+# JCaps.js
+Detected Caps Lock Actived!
